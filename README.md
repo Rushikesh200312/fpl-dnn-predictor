@@ -1,5 +1,4 @@
 # shiny-octo-computing-machine
-# scaling-invention
 # Fantasy Premier League Score Predictor using Deep Neural Networks
 
 ## Overview
