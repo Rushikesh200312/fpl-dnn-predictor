@@ -27,10 +27,10 @@ The dataset used for this project is sourced from Kaggle. It contains historical
 
 Based on the evaluation on the test set, the model achieved the following performance metrics:
 
-*   Mean Squared Error (MSE): 0.1757
-*   Root Mean Squared Error (RMSE): 0.4191
-*   Mean Absolute Error (MAE): 0.0835
-*   R-squared (R²): 0.9787
+*   Mean Squared Error (MSE): 0.1448
+*   Root Mean Squared Error (RMSE): 0.3805
+*   Mean Absolute Error (MAE): 0.0761
+*   R-squared (R²): 0.9824
 
 These metrics indicate that the model performs reasonably well in predicting FPL scores, with a high R-squared value suggesting a good fit to the data.
 
