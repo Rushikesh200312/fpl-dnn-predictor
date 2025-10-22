@@ -42,6 +42,10 @@ This project is implemented in a Google Colab notebook. To run the code:
 2.  Open the provided Colab notebook.
 3.  Run the cells sequentially to execute the data loading, preprocessing, model building, training, evaluation, and prediction steps.
 
+ **⚠️ Note on Reproducibility and Changes**
+ 
+The metrics listed above reflect the model's performance from the last documented training run on the provided dataset. Due to the inherent variability in neural network training, including random weight initialization and potential future code updates, **your results upon re-running the notebook may vary slightly**.
+
 ## Future Improvements
 
 *   Explore additional features or feature engineering techniques.
