@@ -1,4 +1,4 @@
-# shiny-octo-computing-machine
+#fpl-dnn-predictor
 # Fantasy Premier League Score Predictor using Deep Neural Networks
 
 ## Overview
