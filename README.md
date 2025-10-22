@@ -1,4 +1,4 @@
-#fpl-dnn-predictor
+# fpl-dnn-predictor
 # Fantasy Premier League Score Predictor using Deep Neural Networks
 
 ## Overview
